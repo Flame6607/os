@@ -1,0 +1,32 @@
+[
+    {
+        "page": "http://www.gazeta.ru"
+    },
+    {
+        "page": "http://www.pravda.ru"
+    },
+    {
+        "page": "http://www.vedomosti.ru"
+    },
+    {
+        "page": "http://fedpress.ru"
+    },
+    {
+        "page": "http://news-front.info"
+    },
+    {
+        "page": "https://www.gazeta.ru"
+    },
+    {
+        "page": "https://www.pravda.ru"
+    },
+    {
+        "page": "https://www.vedomosti.ru"
+    },
+    {
+        "page": "https://fedpress.ru"
+    },
+    {
+        "page": "https://news-front.info"
+    }
+]
